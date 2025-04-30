@@ -1,1 +1,2 @@
 The genome and annotation files were downloaded from Ensembl 113 on 29/04/2025.
+We downloaded the .gtf version without the chr suffix.
